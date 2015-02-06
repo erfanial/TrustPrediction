@@ -1,0 +1,6 @@
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\bin\Release\MatlabDataStructure.dll
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\bin\Release\MatlabDataStructure.pdb
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\obj\Release\MatlabDataStructure.dll
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\obj\Release\MatlabDataStructure.pdb
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\bin\Release\MatlabDataStructure.dll.CodeAnalysisLog.xml
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\MatlabDataStructure\bin\Release\MatlabDataStructure.dll.lastcodeanalysissucceeded

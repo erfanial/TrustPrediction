@@ -1,0 +1,4 @@
+C:\Users\Student Admin\documents\visual studio 2012\Projects\Dissertation\MatlabDataStructure\bin\x64\Debug\MatlabDataStructure.dll
+C:\Users\Student Admin\documents\visual studio 2012\Projects\Dissertation\MatlabDataStructure\bin\x64\Debug\MatlabDataStructure.pdb
+C:\Users\Student Admin\documents\visual studio 2012\Projects\Dissertation\MatlabDataStructure\obj\x64\Debug\MatlabDataStructure.dll
+C:\Users\Student Admin\documents\visual studio 2012\Projects\Dissertation\MatlabDataStructure\obj\x64\Debug\MatlabDataStructure.pdb

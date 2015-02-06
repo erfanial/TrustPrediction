@@ -1,0 +1,95 @@
+	.version 1.4
+	.target sm_13
+	// compiled with C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin/../open64/lib//be.exe
+	// nvopencc 4.1 built on 2013-07-10
+
+	//-----------------------------------------------------------
+	// Compiling C:/Users/STUDEN~1/AppData/Local/Temp/tmpxft_00000740_00000000-15_CUDAFYSOURCETEMP.cpp3.i (C:/Users/STUDEN~1/AppData/Local/Temp/ccBI#.a01752)
+	//-----------------------------------------------------------
+
+	//-----------------------------------------------------------
+	// Options:
+	//-----------------------------------------------------------
+	//  Target:ptx, ISA:sm_13, Endian:little, Pointer Size:32
+	//  -O3	(Optimization level)
+	//  -g0	(Debug level)
+	//  -m2	(Report advisories)
+	//-----------------------------------------------------------
+
+	.file	1	"C:/Users/STUDEN~1/AppData/Local/Temp/tmpxft_00000740_00000000-14_CUDAFYSOURCETEMP.cudafe2.gpu"
+	.file	2	"C:/Users/Student Admin/Documents/Visual Studio 2012/Projects/TrustPrediction/GAOptimizer/bin/Debug/CUDAFYSOURCETEMP.cu"
+	.file	3	"c:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h"
+	.file	4	"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.5/include\crt/device_runtime.h"
+	.file	5	"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.5/include\host_defines.h"
+	.file	6	"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.5/include\builtin_types.h"
+	.file	7	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\device_types.h"
+	.file	8	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\host_defines.h"
+	.file	9	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\driver_types.h"
+	.file	10	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\surface_types.h"
+	.file	11	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\texture_types.h"
+	.file	12	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\vector_types.h"
+	.file	13	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\builtin_types.h"
+	.file	14	"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.5/include\device_launch_parameters.h"
+	.file	15	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\crt\storage_class.h"
+	.file	16	"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.5/include\common_functions.h"
+	.file	17	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\math_functions.h"
+	.file	18	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\math_constants.h"
+	.file	19	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\device_functions.h"
+	.file	20	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_11_atomic_functions.h"
+	.file	21	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_12_atomic_functions.h"
+	.file	22	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_13_double_functions.h"
+	.file	23	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_20_atomic_functions.h"
+	.file	24	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_32_atomic_functions.h"
+	.file	25	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_35_atomic_functions.h"
+	.file	26	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_20_intrinsics.h"
+	.file	27	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_30_intrinsics.h"
+	.file	28	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_32_intrinsics.h"
+	.file	29	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\sm_35_intrinsics.h"
+	.file	30	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\surface_functions.h"
+	.file	31	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\texture_fetch_functions.h"
+	.file	32	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\texture_indirect_functions.h"
+	.file	33	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\surface_indirect_functions.h"
+	.file	34	"c:\program files\nvidia gpu computing toolkit\cuda\v5.5\include\math_functions_dbl_ptx3.h"
+
+
+	.entry calculateFitnessOnDevice (
+		.param .u32 __cudaparm_calculateFitnessOnDevice_dev_fitnesses,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_dev_fitnessesLen0,
+		.param .u32 __cudaparm_calculateFitnessOnDevice_groundTruth,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_groundTruthLen0,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_groundTruthLen1,
+		.param .u32 __cudaparm_calculateFitnessOnDevice_userTrusts,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_userTrustsLen0,
+		.param .u32 __cudaparm_calculateFitnessOnDevice_updates,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_updatesLen0,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_updatesLen1,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_updatesLen2,
+		.param .u32 __cudaparm_calculateFitnessOnDevice_dev_fitnessParams,
+		.param .s32 __cudaparm_calculateFitnessOnDevice_dev_fitnessParamsLen0)
+	{
+	.reg .u16 %rh<4>;
+	.reg .u32 %r<9>;
+	.reg .f32 %f<3>;
+	.reg .pred %p<3>;
+	.loc	2	109	0
+$LDWbegin_calculateFitnessOnDevice:
+	mov.u16 	%rh1, %ctaid.x;
+	mov.u16 	%rh2, %ntid.x;
+	mul.wide.u16 	%r1, %rh1, %rh2;
+	cvt.u32.u16 	%r2, %tid.x;
+	add.u32 	%r3, %r2, %r1;
+	ld.param.s32 	%r4, [__cudaparm_calculateFitnessOnDevice_dev_fitnessesLen0];
+	setp.le.s32 	%p1, %r4, %r3;
+	@%p1 bra 	$Lt_0_1026;
+	.loc	2	114	0
+	mov.f32 	%f1, 0fbf8ccccd;     	// -1.1
+	ld.param.u32 	%r5, [__cudaparm_calculateFitnessOnDevice_dev_fitnesses];
+	mul.lo.u32 	%r6, %r3, 4;
+	add.u32 	%r7, %r5, %r6;
+	st.global.f32 	[%r7+0], %f1;
+$Lt_0_1026:
+	.loc	2	116	0
+	exit;
+$LDWend_calculateFitnessOnDevice:
+	} // calculateFitnessOnDevice
+

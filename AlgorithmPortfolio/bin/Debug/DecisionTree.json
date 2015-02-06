@@ -1,0 +1,2096 @@
+{
+  "Nodes": {
+    "1": {
+      "ID": "1",
+      "classifier": {
+        "Learners": [
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.18484848484848743,
+            "Alpha": 0.32221122249581674
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14396194800295936,
+            "Alpha": 0.38712267771758996
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.082214508475127221,
+            "Alpha": 0.52389636167529452
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.15945033525172841,
+            "Alpha": 0.36096897128451955
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.10975834738296415,
+            "Alpha": 0.45453517544531852
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.048441244207362379,
+            "Alpha": 0.64661016018487771
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14071322693438559,
+            "Alpha": 0.39290160204209468
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.07680180660591035,
+            "Alpha": 0.53996175494901821
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.15679441164473015,
+            "Alpha": 0.36530144818088006
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 1.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.10483273439740831,
+            "Alpha": 0.46570363936697456
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.100596985929475,
+            "Alpha": 0.47568468499175942
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16340338828259143,
+            "Alpha": 0.35462752181701318
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12446747228534791,
+            "Alpha": 0.42360820785463627
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17201780052178281,
+            "Alpha": 0.34122380490005605
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13554672166270348,
+            "Alpha": 0.40232625373370307
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.070228280157900086,
+            "Alpha": 0.56093214973459016
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.15059582254594447,
+            "Alpha": 0.37565073382342923
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.098188030678258723,
+            "Alpha": 0.48152872278254066
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16247398448265579,
+            "Alpha": 0.35610723748038858
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12248456790346457,
+            "Alpha": 0.42758669415967127
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17133873156931542,
+            "Alpha": 0.34226074647769217
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13501438653664291,
+            "Alpha": 0.40331441841429272
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.069297706411114671,
+            "Alpha": 0.56404596171803834
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.15015835894920262,
+            "Alpha": 0.37639424688760276
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.097330493260081433,
+            "Alpha": 0.48363992369069791
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16214009108604815,
+            "Alpha": 0.35664049876747794
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12177508040905878,
+            "Alpha": 0.42902366550838006
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17109430760223041,
+            "Alpha": 0.34263478076492337
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13482330604185036,
+            "Alpha": 0.4036699197741172
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068964659043207019,
+            "Alpha": 0.56516978657648687
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.15000099232664577,
+            "Alpha": 0.37666214328690356
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0970226672077415,
+            "Alpha": 0.48440181950685385
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16201983732210376,
+            "Alpha": 0.35683277300770871
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.1215199275190495,
+            "Alpha": 0.42954220627522111
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17100621591523937,
+            "Alpha": 0.34276968864216517
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13475450820399221,
+            "Alpha": 0.40379802088105804
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068844873338299875,
+            "Alpha": 0.5655752167278254
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14994428865857237,
+            "Alpha": 0.37675873069929933
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096911833258673627,
+            "Alpha": 0.48467667130648634
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16197648769175091,
+            "Alpha": 0.35690211313857256
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12142799733514918,
+            "Alpha": 0.42972926356040914
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17097445227729358,
+            "Alpha": 0.342818346546326
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13472971035636366,
+            "Alpha": 0.40384420784270975
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.06880171362172724,
+            "Alpha": 0.56572145645151961
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14992384431467365,
+            "Alpha": 0.37679356239052303
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096871883382708759,
+            "Alpha": 0.48477580989092
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16196085566196172,
+            "Alpha": 0.35692712110715874
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.1213948532925509,
+            "Alpha": 0.42979673417832864
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17096299716330676,
+            "Alpha": 0.34283589610275372
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13472076851721115,
+            "Alpha": 0.40386086412870537
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068786152828409677,
+            "Alpha": 0.56577420252245
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1499164715501165,
+            "Alpha": 0.37680612456821161
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096857477842050732,
+            "Alpha": 0.4848115672636284
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195521802534221,
+            "Alpha": 0.3569361406209246
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12138290083023692,
+            "Alpha": 0.42982106944491055
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095886578214717,
+            "Alpha": 0.34284222572377226
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471754372012776,
+            "Alpha": 0.40386687130344534
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068780541240936868,
+            "Alpha": 0.565793226705411
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991381252834757,
+            "Alpha": 0.3768106553007724
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096852282602714557,
+            "Alpha": 0.48482446402984769
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195318474411644,
+            "Alpha": 0.35693939367883221
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137859013811515,
+            "Alpha": 0.42982984654002332
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095737573250092,
+            "Alpha": 0.34284450863408261
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471638066435754,
+            "Alpha": 0.40386903788172274
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068778517401204539,
+            "Alpha": 0.565800088199912
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991285351245145,
+            "Alpha": 0.37681228939334849
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096850408886250933,
+            "Alpha": 0.4848291155326796
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1619524514054953,
+            "Alpha": 0.35694056695944332
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137703542509985,
+            "Alpha": 0.4298330121913343
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095683831763114,
+            "Alpha": 0.34284533201317274
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471596118862209,
+            "Alpha": 0.40386981929869908
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777787473884452,
+            "Alpha": 0.56580256294387088
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991250762549177,
+            "Alpha": 0.37681287876140945
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849733098626337,
+            "Alpha": 0.48483079319578809
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195218691255689,
+            "Alpha": 0.35694099012712971
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137647468919383,
+            "Alpha": 0.42983415395040531
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095664448813047,
+            "Alpha": 0.34284562898193527
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471580989657994,
+            "Alpha": 0.40387010113235855
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777524212081942,
+            "Alpha": 0.56580345551206779
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991238287444805,
+            "Alpha": 0.3768130913290525
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0968494893627271,
+            "Alpha": 0.48483139828005495
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195209151779666,
+            "Alpha": 0.3569411427513034
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137627244862456,
+            "Alpha": 0.42983456574966317
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095657457953681,
+            "Alpha": 0.34284573608988939
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471575533004015,
+            "Alpha": 0.40387020278144264
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687774292614617,
+            "Alpha": 0.565803777435368
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1499123378804309,
+            "Alpha": 0.37681316799595932
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849401454439127,
+            "Alpha": 0.48483161651628293
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195205711171085,
+            "Alpha": 0.35694119779837413
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137619950643022,
+            "Alpha": 0.42983471427362624
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095654936556653,
+            "Alpha": 0.34284577472058164
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471573564950604,
+            "Alpha": 0.40387023944326395
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777395015582915,
+            "Alpha": 0.56580389354367655
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991232165241386,
+            "Alpha": 0.37681319564745963
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849369748511521,
+            "Alpha": 0.48483169522769937
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195204470244962,
+            "Alpha": 0.35694121765223269
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137617319832517,
+            "Alpha": 0.42983476784187213
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095654027162352,
+            "Alpha": 0.34284578865354565
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572855130737,
+            "Alpha": 0.4038702526661222
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777382664099815,
+            "Alpha": 0.565803935420548
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231579944542,
+            "Alpha": 0.37681320562054305
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849358313112213,
+            "Alpha": 0.4848317236166072
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195204022679219,
+            "Alpha": 0.35694122481293877
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137616370976374,
+            "Alpha": 0.42983478716236878
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653699170527,
+            "Alpha": 0.34284579367875689
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572599119735,
+            "Alpha": 0.40387025743521571
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777378209281842,
+            "Alpha": 0.56580395052430987
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231368845284,
+            "Alpha": 0.37681320921753936
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0968493541887014,
+            "Alpha": 0.48483173385564854
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203861255367,
+            "Alpha": 0.35694122739559575
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.1213761602875187,
+            "Alpha": 0.429834794130704
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.170956535808732,
+            "Alpha": 0.34284579549120775
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.134715725067839,
+            "Alpha": 0.40387025915529112
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777376602559379,
+            "Alpha": 0.565803955971795
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231292707027,
+            "Alpha": 0.37681321051488653
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849352701142,
+            "Alpha": 0.48483173754858389
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203803034233,
+            "Alpha": 0.35694122832708897
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615905321182,
+            "Alpha": 0.42983479664398527
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1709565353820712,
+            "Alpha": 0.342845796144901
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572473481189,
+            "Alpha": 0.4038702597756697
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773760230609,
+            "Alpha": 0.56580395793654581
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231265246965,
+            "Alpha": 0.37681321098278842
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849352164625716,
+            "Alpha": 0.48483173888051057
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203782036266,
+            "Alpha": 0.35694122866304023
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615860803712,
+            "Alpha": 0.42983479755044479
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653522818424,
+            "Alpha": 0.34284579638067358
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572461469947,
+            "Alpha": 0.40387025999942078
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773758140541,
+            "Alpha": 0.56580395864516941
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231255342419,
+            "Alpha": 0.37681321115155553
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351971119338,
+            "Alpha": 0.48483173936089918
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203774462352,
+            "Alpha": 0.35694122878421697
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615844747293,
+            "Alpha": 0.42983479787738371
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1709565351726795,
+            "Alpha": 0.34284579646571317
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1347157245713772,
+            "Alpha": 0.40387026008012356
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375738669683,
+            "Alpha": 0.5658039589007553
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231251769987,
+            "Alpha": 0.3768132112124275
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351901325625,
+            "Alpha": 0.48483173953416531
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203771730235,
+            "Alpha": 0.35694122882792878
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615838956008,
+            "Alpha": 0.42983479799530522
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653515266335,
+            "Alpha": 0.3428457964963802
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1347157245557504,
+            "Alpha": 0.40387026010923388
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375711480071,
+            "Alpha": 0.56580395899293989
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231250481804,
+            "Alpha": 0.37681321123437728
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351876153816,
+            "Alpha": 0.48483173959665549
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770745428,
+            "Alpha": 0.3569412288436849
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615836867398,
+            "Alpha": 0.4298347980378332
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514544659,
+            "Alpha": 0.34284579650743713
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572455011546,
+            "Alpha": 0.40387026011973093
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375701674942,
+            "Alpha": 0.56580395902618352
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231250017156,
+            "Alpha": 0.37681321124229461
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351867076258,
+            "Alpha": 0.48483173961919096
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770390015,
+            "Alpha": 0.35694122884937124
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.1213761583611407,
+            "Alpha": 0.42983479805317237
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514283893,
+            "Alpha": 0.34284579651143238
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454808398,
+            "Alpha": 0.40387026012351529
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773756981378,
+            "Alpha": 0.56580395903817593
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249849377,
+            "Alpha": 0.37681321124515343
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351863800115,
+            "Alpha": 0.48483173962732412
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770262068,
+            "Alpha": 0.35694122885141832
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835842347,
+            "Alpha": 0.42983479805870523
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514190096,
+            "Alpha": 0.34284579651286945
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.134715724547355,
+            "Alpha": 0.4038702601248732
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696864415,
+            "Alpha": 0.56580395904249325
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249789469,
+            "Alpha": 0.37681321124617423
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351862621544,
+            "Alpha": 0.48483173963025
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770215896,
+            "Alpha": 0.356941228852157
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835744664,
+            "Alpha": 0.42983479806069419
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514156112,
+            "Alpha": 0.34284579651339014
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454708672,
+            "Alpha": 0.403870260125373
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773756964027,
+            "Alpha": 0.56580395904405867
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249767273,
+            "Alpha": 0.37681321124655248
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0968493518621937,
+            "Alpha": 0.48483173963131215
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770198746,
+            "Alpha": 0.3569412288524314
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835709059,
+            "Alpha": 0.42983479806141917
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514144313,
+            "Alpha": 0.34284579651357089
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454698927,
+            "Alpha": 0.40387026012555455
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773756962372,
+            "Alpha": 0.56580395904461978
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249759734,
+            "Alpha": 0.37681321124668093
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351862040509,
+            "Alpha": 0.4848317396316924
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770193173,
+            "Alpha": 0.35694122885252055
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.1213761583569658,
+            "Alpha": 0.42983479806167324
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514140235,
+            "Alpha": 0.34284579651363334
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1347157245469589,
+            "Alpha": 0.40387026012561111
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696179172,
+            "Alpha": 0.56580395904481651
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249756734,
+            "Alpha": 0.37681321124673206
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0968493518619852,
+            "Alpha": 0.48483173963182974
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770191341,
+            "Alpha": 0.35694122885254986
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835691959,
+            "Alpha": 0.42983479806176739
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514138345,
+            "Alpha": 0.34284579651366232
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454694553,
+            "Alpha": 0.40387026012563604
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773756961577,
+            "Alpha": 0.56580395904488934
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755677,
+            "Alpha": 0.37681321124675005
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861966651,
+            "Alpha": 0.48483173963187581
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189995,
+            "Alpha": 0.3569412288525714
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835690128,
+            "Alpha": 0.42983479806180463
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137243,
+            "Alpha": 0.34284579651367925
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454694153,
+            "Alpha": 0.40387026012564348
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696147947,
+            "Alpha": 0.56580395904492242
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1499123124975536,
+            "Alpha": 0.37681321124675543
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861958408,
+            "Alpha": 0.4848317396318963
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189678,
+            "Alpha": 0.35694122885257645
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689608,
+            "Alpha": 0.42983479806181524
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137468,
+            "Alpha": 0.34284579651367575
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693806,
+            "Alpha": 0.40387026012564992
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696144838,
+            "Alpha": 0.565803959044933
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755496,
+            "Alpha": 0.37681321124675315
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956881,
+            "Alpha": 0.4848317396319
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189787,
+            "Alpha": 0.35694122885257479
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689536,
+            "Alpha": 0.42983479806181668
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137057,
+            "Alpha": 0.342845796513682
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693914,
+            "Alpha": 0.40387026012564792
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696143825,
+            "Alpha": 0.56580395904493641
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755516,
+            "Alpha": 0.37681321124675277
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956437,
+            "Alpha": 0.48483173963190113
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189845,
+            "Alpha": 0.35694122885257384
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689516,
+            "Alpha": 0.42983479806181712
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137107,
+            "Alpha": 0.3428457965136813
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693947,
+            "Alpha": 0.40387026012564731
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696143811,
+            "Alpha": 0.56580395904493641
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755532,
+            "Alpha": 0.37681321124675254
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956437,
+            "Alpha": 0.48483173963190113
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189845,
+            "Alpha": 0.35694122885257384
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689472,
+            "Alpha": 0.429834798061818
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137041,
+            "Alpha": 0.3428457965136823
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693947,
+            "Alpha": 0.40387026012564731
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0687773756961438,
+            "Alpha": 0.56580395904493641
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755541,
+            "Alpha": 0.37681321124675238
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956423,
+            "Alpha": 0.48483173963190118
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189845,
+            "Alpha": 0.35694122885257384
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689472,
+            "Alpha": 0.429834798061818
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137107,
+            "Alpha": 0.3428457965136813
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693947,
+            "Alpha": 0.40387026012564731
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696143825,
+            "Alpha": 0.56580395904493641
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755532,
+            "Alpha": 0.37681321124675254
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0968493518619566,
+            "Alpha": 0.48483173963190074
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189845,
+            "Alpha": 0.35694122885257384
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689386,
+            "Alpha": 0.42983479806181973
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137069,
+            "Alpha": 0.34284579651368191
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693934,
+            "Alpha": 0.40387026012564758
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696143853,
+            "Alpha": 0.5658039590449363
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755516,
+            "Alpha": 0.37681321124675277
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956715,
+            "Alpha": 0.48483173963190046
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189845,
+            "Alpha": 0.35694122885257384
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12137615835689516,
+            "Alpha": 0.42983479806181712
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.17095653514137132,
+            "Alpha": 0.34284579651368091
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.13471572454693947,
+            "Alpha": 0.40387026012564731
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.068777375696143839,
+            "Alpha": 0.5658039590449363
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.14991231249755532,
+            "Alpha": 0.37681321124675254
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.096849351861956715,
+            "Alpha": 0.48483173963190046
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16195203770189853,
+            "Alpha": 0.35694122885257368
+          }
+        ],
+        "FX": null,
+        "CX": null
+      },
+      "TrueOutcome": "11",
+      "FalseOutcome": "10",
+      "Label": -1
+    },
+    "10": {
+      "ID": "10",
+      "classifier": null,
+      "TrueOutcome": null,
+      "FalseOutcome": null,
+      "Label": 1
+    },
+    "11": {
+      "ID": "11",
+      "classifier": {
+        "Learners": [
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.057731958762886788,
+            "Alpha": 0.60637908436381471
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.01978792851117046,
+            "Alpha": 0.847459856963398
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.0037807667030575541,
+            "Alpha": 1.2103875212938349
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.00033874815986043678,
+            "Alpha": 1.7349879569475941
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 1.0549448293700162E-05,
+            "Alpha": 2.4883828352768931
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 7.2754331975164826E-08,
+            "Alpha": 3.5690705554970337
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 5.7784004216333926E-11,
+            "Alpha": 5.11909618321672
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 2.5711908814718974E-15,
+            "Alpha": 7.2949328403847682
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 1.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.0,
+            "Alpha": 1000000.0
+          }
+        ],
+        "FX": null,
+        "CX": null
+      },
+      "TrueOutcome": "111",
+      "FalseOutcome": "110",
+      "Label": -1
+    },
+    "110": {
+      "ID": "110",
+      "classifier": null,
+      "TrueOutcome": null,
+      "FalseOutcome": null,
+      "Label": 2
+    },
+    "111": {
+      "ID": "111",
+      "classifier": {
+        "Learners": [
+          {
+            "FeatureNumber": 0,
+            "Threshold": 1.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.14216867469879607,
+            "Alpha": 0.39029899316536387
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1296384953807212,
+            "Alpha": 0.41348284621839659
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.1441788706040632,
+            "Alpha": 0.38674069267392441
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.16303725354429113,
+            "Alpha": 0.35520963850916426
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.11532897057766081,
+            "Alpha": 0.44242169499470635
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.060227404984490231,
+            "Alpha": 0.5966143125679888
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.020989011540420991,
+            "Alpha": 0.83439779001673409
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.00417599679686021,
+            "Alpha": 1.1887112166822478
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 0.00039208508520921558,
+            "Alpha": 1.7032246820141996
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 1.3016311273791394E-05,
+            "Alpha": 2.4427532106111562
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 9.8346025692156107E-08,
+            "Alpha": 3.5036215715794934
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 8.9036344645662839E-11,
+            "Alpha": 5.0252163390343476
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 4.3759434225969451E-16,
+            "Alpha": 7.679464150857056
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 1.7198578454239924E-21,
+            "Alpha": 10.38225372407509
+          },
+          {
+            "FeatureNumber": 1,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": true,
+            "Error": 8.5873090984495717E-13,
+            "Alpha": 6.0330714522388762
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 1.0,
+            "LessIsClassifiedPositive": true,
+            "Error": -9.7170168701249035E-16,
+            "Alpha": 1000000.0
+          }
+        ],
+        "FX": null,
+        "CX": null
+      },
+      "TrueOutcome": "1111",
+      "FalseOutcome": "1110",
+      "Label": -1
+    },
+    "1110": {
+      "ID": "1110",
+      "classifier": null,
+      "TrueOutcome": null,
+      "FalseOutcome": null,
+      "Label": 3
+    },
+    "1111": {
+      "ID": "1111",
+      "classifier": {
+        "Learners": [
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.051724137931034447,
+            "Alpha": 0.63162071738729086
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.12772217526736462,
+            "Alpha": 0.41719426268347237
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.086824616686251618,
+            "Alpha": 0.51095566046731633
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.043273567559099696,
+            "Alpha": 0.67228253602045673
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.013427376886420732,
+            "Alpha": 0.93306894037880683
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0022024737111884787,
+            "Alpha": 1.3280658447773654
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.00015625614248964339,
+            "Alpha": 1.9030475174403576
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 3.4769857890732179E-06,
+            "Alpha": 2.7293977871484909
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 1.4807632659085469E-08,
+            "Alpha": 3.9147571807338228
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 5.8906426828202151E-12,
+            "Alpha": 5.6149186600435481
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 1.6019965924118023E-16,
+            "Alpha": 7.8976692060167535
+          },
+          {
+            "FeatureNumber": 0,
+            "Threshold": 0.0,
+            "LessIsClassifiedPositive": false,
+            "Error": 0.0,
+            "Alpha": 1000000.0
+          }
+        ],
+        "FX": null,
+        "CX": null
+      },
+      "TrueOutcome": "11111",
+      "FalseOutcome": "11110",
+      "Label": -1
+    },
+    "11110": {
+      "ID": "11110",
+      "classifier": null,
+      "TrueOutcome": null,
+      "FalseOutcome": null,
+      "Label": 5
+    },
+    "11111": {
+      "ID": "11111",
+      "classifier": null,
+      "TrueOutcome": null,
+      "FalseOutcome": null,
+      "Label": 4
+    }
+  }
+}

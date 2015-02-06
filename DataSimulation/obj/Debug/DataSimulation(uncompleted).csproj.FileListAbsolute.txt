@@ -1,0 +1,3 @@
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\DataSimulation\bin\Debug\DataSimulation.exe.config
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\DataSimulation\obj\Debug\DataSimulation.exe
+C:\Users\Student Admin\Documents\Visual Studio 2012\Projects\TrustPrediction\DataSimulation\obj\Debug\DataSimulation.pdb

@@ -1,0 +1,8 @@
+{
+  "I": 1.0,
+  "lambda_promote": 1.0,
+  "lambda_punish": 3.764678,
+  "certainty_coeff": 7.165505,
+  "score_coeff": 0.7852525,
+  "decay": 0.001736362
+}
